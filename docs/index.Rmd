@@ -2,116 +2,183 @@
 title: "Cooper Gant"
 output: html_document
 date: "2025-05-01"
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
-
 
 Cooper Gant, June 2, 2025
 
-My story covers the difference between Arkansas’ increase in electric vehicles as a percentage point against the entirety of the nation. The Natural State is lagging at about half the year-to-year increase percentage-wise in comparison to the national average on light-duty electric vehicles – only being better than Mississippi in a border-state comparison. 
+**RSW comment: Hi Cooper, I will need to chat with you to focus the
+question and the scope of this project. I don't follow what is going on
+here. Thanks, Rob**
 
-This story is timely due to the cuts of federal programs supporting charging station development, Elon Musk’s return to Tesla following a shaky Q1 earnings call, and the national rescinding of climate-conservation standards.
+My story covers the difference between Arkansas’ increase in electric
+vehicles [as a percentage point against the entirety of the
+nation.]{.underline}rsw comment: I dont understand this "as a percentage
+point"
 
-My target audience for this story includes environmental conservationists, automotive industry enthusiasts, and electric vehicle enthusiasts. 
+The Natural State is lagging **##rsw comment: still not following what
+this is about \##** at about half the year-to-year increase
+percentage-wise in comparison to the national average on light-duty
+electric vehicles – only being better than Mississippi in a border-state
+comparison.
 
-There is a wide assortment of sources that can comment on this story. Scott Hardin of the Arkansas DFA, small-town business owners that manage charging stations, any of the environmental dynamics program staff at the University of Arkansas at Fayetteville, current ARDOT director Jared Wiley, and former ARDOT director Lorie Tudor (she oversaw the organization during the time of the collected data pool from 2019-2023).
+This story is timely due to the cuts of federal programs supporting
+charging station development, [Elon Musk’s return to Tesla following a
+shaky Q1 earnings call**,**]{.underline} **##rsw comment - rephrase or
+cut. tesla's issues are of a different kind \##** and the national
+rescinding of climate-conservation standards.
 
-The impact of this story not being reported is that we, as taxpayers, have paid into the building of electric vehicle charges but do not have the same driver infrastructure ratio as our neighboring states (excluding Mississippi). However, the drivers pay a $200, $100, or $50 “lost gas” tax that goes back into road infrastructure and other similar programs – so we can ask ARDOT if the lack thereof usage of the road solely hurts non-EV drivers. Once I hear back from Scott Hardin, I will know what percentage of the total revenue it makes up. However, it still leaves many questions regarding how “worth it” it was for the state to fund the amount of charging stations.
+My target audience for this story includes environmental
+conservationists, automotive industry enthusiasts, and electric vehicle
+enthusiasts.
 
-Additionally, for environmental conservationists, there are an assortment of problems with other rural states, such as Alabama and Tennessee, staying ahead of us in the EV percentage increase. Northwest Arkansas has continued to grow as a technological point in the South but lacks this specific statistic. Why is it that Alabama is better than us? Are they putting even MORE charging stations or just having better locations? 
+There is a wide assortment of sources that can comment on this story.
+Scott Hardin of the Arkansas DFA**##rsw comment - spell out DFA and all
+obscure acronyms \##**, small-town business owners that manage charging
+stations, any of the environmental dynamics program staff at the
+University of Arkansas at Fayetteville, current ARDOT **##rsw comment -
+spell out DFA and all obscure acronyms \##**director Jared Wiley, and
+former ARDOT director Lorie Tudor (she oversaw the organization during
+the time of the collected data pool from 2019-2023).
 
-The visuals for this story will include an assortment of EVs charging across the state. Showing a charger in Jonesboro, Texarkana, and Fayetteville will emphasize how much was invested in the charging programs. Also, a graphic showing the percentage climb of the nation, Arkansas, and similar states will provide better context for readers.
+The impact of this story not being reported is that we, as **#rsw
+comment: Arkansas taxpayers or all taxpayers? \##** taxpayers, have paid
+into the building of electric vehicle charges but do not have the same
+driver infrastructure ratio as our neighboring states (excluding
+Mississippi). However, the drivers pay a \$200, \$100, or \$50 “lost
+gas” tax that goes back into road infrastructure and other similar
+programs – so we can ask ARDOT if the lack thereof usage of the road
+solely hurts non-EV drivers. Once I hear back from Scott Hardin, I will
+know what percentage of the total revenue it makes up. However, it still
+leaves many questions regarding how “worth it” it was for the state to
+fund the amount of charging stations.
 
-There are a lot more steps to include in this. Including the year-to-year gas revenue totals will be essential to telling the story of how much money the state makes from EV owners to fund our state’s road infrastructure. Another unique element is comparing the national amount of electric vehicle charging stations per person in comparison to how much the state is driving. 
+Additionally, for environmental conservationists, there are an
+assortment of problems with other rural states, such as Alabama and
+Tennessee, staying ahead of us in the EV percentage increase. Northwest
+Arkansas has continued to grow as a technological **hub** ~~point~~ in
+the South but lacks this specific statistic. Why is it that Alabama is
+better than us? Are they putting even MORE charging stations or just
+having better locations?
 
-Also, I want to pull more statistics of Arkansas’ totals for different hybrid types. 
+The visuals for this story will include an assortment of EVs charging
+across the state. Showing a charger in Jonesboro, Texarkana, and
+Fayetteville will emphasize how much was invested in the charging
+programs. Also, a graphic showing the percentage climb of the nation,
+Arkansas, and similar states will provide better context for readers.
 
-If I am unable to get the extra data mentioned, a realistic date for this is within a week and a half. The interviews will be scheduled over Zoom for the next week.
+There are a lot more steps to include in this. Including the
+year-to-year gas revenue totals will be essential to telling the story
+of how much money the state makes from EV owners to fund our state’s
+road infrastructure. Another unique element is comparing the national
+amount of electric vehicle charging stations per person in comparison to
+how much the state is driving.
 
-MY DATA/MATH
-Percentage of total vehicles that are EV (EV, hybrid and plug-in hybrid)
+Also, I want to pull more statistics of Arkansas’ totals for different
+hybrid types.
 
-ARKANSAS
-Percentage of total vehicles that are EV (EV, hybrid and plug-in hybrid)
-2019
-0.89%
+If I am unable to get the extra data mentioned, a realistic date for
+this is within a week and a half. The interviews will be scheduled over
+Zoom for the next week.
 
-2020
-0.94%
+MY DATA/MATH Percentage of total vehicles that are EV (EV, hybrid and
+plug-in hybrid)
 
-2021
-1.13%
+**#RSW comment: let's make a graphic from this**
 
-2022
-1.42%
+ARKANSAS Percentage of total vehicles that are EV (EV, hybrid and
+plug-in hybrid) 2019 0.89%
 
-2023
-1.75%
+2020 0.94%
 
-NATION
-2019
-2.11%
+2021 1.13%
 
-2020
-2.31%
+2022 1.42%
 
-2021
-2.75%
+2023 1.75%
 
-2022
-3.44%
+NATION 2019 2.11%
 
-2023
-4.27%
+2020 2.31%
 
+2021 2.75%
 
----
-A demo notebook for Dow Jones News Fund data interns
+2022 3.44%
 
-During the week’s training, you will work on a project called Investigate Your Community to produce detailed story pitches relevant to their summer internship positions. The goal is to have the students research a topic relevant to your newsroom so they can get to work immediately at the internship. 
+2023 4.27%
 
-Here are some examples from last year’s DJNF data journalism training:
+------------------------------------------------------------------------
 
-Hannah Rosenberger, at ASI Media/Counselor magazine, produced this analysis on name, image and likeness trends: https://hrosenberger.github.io/ASI-NIL-Project/
+delete the template material
 
-Shifra Dayak, an intern at the Connecticut Mirror, produced this analysis of environment spill data: https://shifradayak.github.io/DJNF_Merrill/ct_env_spills.html.
+~~A demo notebook for Dow Jones News Fund data interns~~
 
-Michael Zhang, an intern at the Houston Landing, explored local election data: https://michaelzhangreporter.github.io/Houston_Campaign_Finance/
+~~During the week’s training, you will work on a project called
+Investigate Your Community to produce detailed story pitches relevant to
+their summer internship positions. The goal is to have the students
+research a topic relevant to your newsroom so they can get to work
+immediately at the internship.~~
 
+~~Here are some examples from last year’s DJNF data journalism
+training:~~
 
-Here's what your newsroom suggested for a project
+~~Hannah Rosenberger, at ASI Media/Counselor magazine, produced this
+analysis on name, image and likeness trends:
+<https://hrosenberger.github.io/ASI-NIL-Project/>~~
 
-Here are a couple stories Cooper could pursue for us during his internship.
-Two things are possible data-driven news stories, one involves Buc-ee's.
+~~Shifra Dayak, an intern at the Connecticut Mirror, produced this
+analysis of environment spill data:
+<https://shifradayak.github.io/DJNF_Merrill/ct_env_spills.html>.~~
 
-Thing one: Broadband service 
-I'd like to see us produce a story that evaluates the status of broadband data service in Arkansas.
-All we've really reported is that there are rural areas [and some decent size cities] that remain years behind because of expense and challenging terrain.
-Broadband service providers face the same challenges that slowed the creation of roads, electric service and phone service in Arkansas.
-But we could go deeper than that, and try to explain why data speeds for many homes seem to be painfully slow, and not really broadband.
+~~Michael Zhang, an intern at the Houston Landing, explored local
+election data:
+<https://michaelzhangreporter.github.io/Houston_Campaign_Finance/>~~
 
-There's a state Broadband Office: broadband.arkansas.gov
-It has a nifty map display: register.broadband.arkansas.gov/register/bead/map
+~~Here's what your newsroom suggested for a project~~
 
-Thing two: Electric vehicles
-It would be interesting to compare the registration numbers for electric and electric hybrid vehicles in Arkansas.
-Is Arkansas keeping up with the smaller comparable states, neighboring states, national average?
-Same could be asked about creation of charging stations.
+~~Here are a couple stories Cooper could pursue for us during his
+internship. Two things are possible data-driven news stories, one
+involves Buc-ee's.~~
 
-The Arkansas Department of Finance and Administration has all the data. We'd have to ask them for it.
-The state charges a $200 a year fee for each electric vehicle, to make up for "lost" gas tax revenue, so there's probably data for the past few years to examine.
+~~Thing one: Broadband service I'd like to see us produce a story that
+evaluates the status of broadband data service in Arkansas. All we've
+really reported is that there are rural areas [and some decent size
+cities] that remain years behind because of expense and challenging
+terrain. Broadband service providers face the same challenges that
+slowed the creation of roads, electric service and phone service in
+Arkansas. But we could go deeper than that, and try to explain why data
+speeds for many homes seem to be painfully slow, and not really
+broadband.~~
 
-Thing three: Buc-ee's mania
-Arkansas' first Buc-ee's is set to open later this year in relatively urban Benton, a suburb city of Little Rock.
-Seems like many of the outsized Buc-ee's stores are built rural areas and those governments probably see measurable tax revenue boosts when they open.
-Not sure where to go in the Buc-ee's infested states to find data to measure this Buc-ee's bump.
-It may be too difficult to ascertain. 
-Based on our metrics, any story with the word Buc-ee's in it will be extremely popular.
+~~There's a state Broadband Office: broadband.arkansas.gov It has a
+nifty map display: register.broadband.arkansas.gov/register/bead/map~~
 
+~~Thing two: Electric vehicles It would be interesting to compare the
+registration numbers for electric and electric hybrid vehicles in
+Arkansas. Is Arkansas keeping up with the smaller comparable states,
+neighboring states, national average? Same could be asked about creation
+of charging stations.~~
 
+~~The Arkansas Department of Finance and Administration has all the
+data. We'd have to ask them for it. The state charges a \$200 a year fee
+for each electric vehicle, to make up for "lost" gas tax revenue, so
+there's probably data for the past few years to examine.~~
 
-This notebook helps you get started on the electic vehicles
+~~Thing three: Buc-ee's mania Arkansas' first Buc-ee's is set to open
+later this year in relatively urban Benton, a suburb city of Little
+Rock. Seems like many of the outsized Buc-ee's stores are built rural
+areas and those governments probably see measurable tax revenue boosts
+when they open. Not sure where to go in the Buc-ee's infested states to
+find data to measure this Buc-ee's bump. It may be too difficult to
+ascertain. Based on our metrics, any story with the word Buc-ee's in it
+will be extremely popular.~~
+
+~~This notebook helps you get started on the electic vehicles~~
 
 # Load software libraries
+
 ```{r}
 #install.packages("tidyverse")
 #install.packages("janitor")
@@ -123,7 +190,6 @@ library(readxl)
 library(rvest)
 
 ```
-
 
 # Load your data
 
@@ -146,8 +212,8 @@ data <- read.csv("../data/ark_electric_hybrid.csv") |>
 
 Data details:
 
-
 # Explore the data types
+
 ```{r}
 
 #glimpse(YOUR_DATA)
@@ -155,15 +221,17 @@ Data details:
 glimpse(data)
 
 ```
+
 # pct of whole
+
 ```{r}
 data <- data |> 
   mutate(pct = fully_electric/(hybrid+fully_electric))
 ```
 
-
 # National context: All vehicle registrations
-https://afdc.energy.gov/vehicle-registration
+
+<https://afdc.energy.gov/vehicle-registration>
 
 Scraper:
 
@@ -180,8 +248,8 @@ car_registrations <- test[[1]] %>%
 
 ```
 
-
 #Clean headings
+
 ```{r}
 new_headers <- as.character(car_registrations[1, ])
 car_registrations_clean <- car_registrations[-(1), ] # Remove the first two rows
@@ -196,23 +264,20 @@ car_registrations <- car_registrations_clean |>
 
 ```
 
-
 # Part 2: Buc-ee's
 
-Jim had a great idea about Buc-ee's. Make some calls to the county / city economic development officials to see what you can find about economic impact, tax revenue from opening a Buc-ee's store. Locations: https://buc-ees.com/locations/
+Jim had a great idea about Buc-ee's. Make some calls to the county /
+city economic development officials to see what you can find about
+economic impact, tax revenue from opening a Buc-ee's store. Locations:
+<https://buc-ees.com/locations/>
 
-It would be great to nail down the dollar impact in some of these communities.
+It would be great to nail down the dollar impact in some of these
+communities.
 
-https://communityplaymaker.com/discoveries/the-buc-ees-effect/#:~:text=When%20a%20community%20leader%20sees,million%20in%20indirect%20sales%20tax.
+<https://communityplaymaker.com/discoveries/the-buc-ees-effect/#>:\~:text=When%20a%20community%20leader%20sees,million%20in%20indirect%20sales%20tax.
 
-
-
-# Questions 
+# Questions
 
 Write down questions you want answered:
 
-
-
 # Data Details
-
-
