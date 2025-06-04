@@ -180,25 +180,13 @@ article_text <- readLines("./data/ark_electric_hybrid.csv", warn = FALSE)
 
 And then we'll have Llama 4 summarize it:
 
-```{r extract-structured-data}
-# Create prompt for structured data extraction
-structured_response <- chat$chat(paste(
-  "produce a structured list organizing this data with a the three most popular cities for  charging stations.Do not include any introductory text, no yapping.",
-  "\nText:",
-  sanctions_content
-))
-
-
-# Display the response
-cat("Structured Data Response:\n")
-cat(structured_response)
-```
-```
-
-```
 
 How well did the vision model perform on your image?
 
 ### Audio Models
 
 Another option is to use models that transcribe audio. Download and listen to [this mp3 file](https://dare.wisc.edu/audio/new-mexico-chuck-wagon-etiquette/) from the Dictionary of American Regional English project at the University of Wisconsin. Then, in Groq's dev console, change the model to `distil-whisper-large-v3-en` and upload the mp3 file using the "Select File" button. Then hit submit and check out the transcript. How did the LLM do compared to the original transcript?
+
+````{r read-article}
+article_text <- readLines("./data/ark_electric_hybrid.csv", warn = FALSE)
+```
