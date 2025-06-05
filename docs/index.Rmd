@@ -28,32 +28,26 @@ Since 2019, Electric vehicle drivers in Arkansas have [paid a yearly fee](https:
 
 Scott Hardin, spokesperson for the Arkansas Department of Finance, said the organization has garnered \$11,810,093.88 since 2019 in collected fees from electric vehicle drivers. Thus far, hybrid vehicle drivers have paid the most with \$7,764,048.40, fully electric drivers follow at just over half the amount with \$3,687,990.92 and plug-in hybrid electric drivers paid \$358,054.56 in the last six years.
 
-<iframe title="Charging stations per one electric vehicle (2023)" aria-label="Map" id="datawrapper-chart-A0xRB" src="[https://datawrapper.dwcdn.net/A0xRB/1/"](https://datawrapper.dwcdn.net/A0xRB/1/%22) scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
-
-</script>
-
-\
-
-<iframe title="Which state had the most electric vehicles in 2023?" aria-label="Map" id="datawrapper-chart-QcoN1" src="https://datawrapper.dwcdn.net/QcoN1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
-</script>
+<iframe title="Charging stations per one electric vehicle (2023)" aria-label="Map" id="datawrapper-chart-A0xRB" src="https://datawrapper.dwcdn.net/A0xRB/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+</script></script>
 
 Hardin said that although the ADFA does not have the specific yearly amounts, the revenue has continued to climb year-to-year since 2019. The number of registered fully-electric vehicle drivers in Arkansas has increased from 781 to 8,807, and the number of hybrid vehicles has climbed from 13,861 to 48,797. 
 
 This mirrors national trends, with a major boost to the industry taking place in the early 2020’s. In 2023, [Arkansans drove the 10th-lowest electric vehicle count in the nation,](https://afdc.energy.gov/data/10962) but have steadily increased their green presence in the last decade.
 
-<iframe title="Which state had the most electric vehicles in 2023?" aria-label="Map" id="datawrapper-chart-QcoN1" src="[https://datawrapper.dwcdn.net/QcoN1/1/"](https://datawrapper.dwcdn.net/QcoN1/1/%22) scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"\>\</iframe\>\<script type="text/javascript"\>!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
-
 </script>
 
 The motor fuels sales tax, contrary to its earth-friendly counterpart, has continued to increase year to year, but dropped in the last few months. According to public records, the revenue hit its highest peak in the last six years in 2023, but dropped to \$603 million in 2024 – the lowest collected year since 2020. 
 
-\<iframe title="Arkansas motor fuel sales tax" aria-label="Interactive line chart" id="datawrapper-chart-ZnKCT" src="[https://datawrapper.dwcdn.net/ZnKCT/1/"](https://datawrapper.dwcdn.net/ZnKCT/1/%22) scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"\>\</iframe\>\<script type="text/javascript"\>!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+<iframe title="Arkansas motor fuel sales tax" aria-label="Interactive line chart" id="datawrapper-chart-ZnKCT" src="https://datawrapper.dwcdn.net/ZnKCT/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+</script>
 
 \</script\>
 
-However, there is notable overall growth from the tax’s revenue since 2015, with Q3 of 2023 having the highest quarterly total.  
+However, there is notable overall growth from the tax’s revenue since 2015, with Q3 of 2023 having the highest quarterly total.
 
-\<iframe title="Charging stations per one electric vehicle (2023)" aria-label="Map" id="datawrapper-chart-A0xRB" src="[https://datawrapper.dwcdn.net/A0xRB/1/"](https://datawrapper.dwcdn.net/A0xRB/1/%22) scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"\>\</iframe\>\<script type="text/javascript"\>!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+<iframe title="Quarterly revenue of Arkansas gas tax" aria-label="Interactive line chart" id="datawrapper-chart-I4EMP" src="https://datawrapper.dwcdn.net/I4EMP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+</script>
 
 \</script\>\
 Despite the Natural State’s growing number of registered electric vehicles, Arkansas remains one of the least friendly to electric vehicle drivers. [The Department of Energy’s official data base reported](https://afdc.energy.gov/fuels/electricity-locations#/analyze) Arkansas as the ninth-lowest rate of electric vehicle charging stations per vehicle in 2023. \
