@@ -24,47 +24,77 @@ Cooper Gant, June 2, 2025
 Use for link: <a href="link_here" target="_new">Text in here</a>
 -->
 
-In the last five years, the revenue gained from electric vehicle drivers’ yearly registration fee has continued to grow lockstep to the rise of electric vehicles in the Natural State, whereas the year-to-year motor sales tax has plateaued in recent months.
+In the last five years, the revenue gained from electric vehicle drivers’ yearly registration fee has continued to grow in lockstep with the rise of electric vehicles in the Natural State, whereas the year-to-year motor sales tax has plateaued.
 
-Since 2019, electric vehicle drivers in Arkansas have paid a yearly fee of $200 (fully electric), $100 (hybrid) or $50 (hybrid plug-in) for their vehicles. The legislation was written to cover a portion of the “lost” gas tax revenue that would have otherwise been gained from them at the pump. 
+Since 2019, electric vehicle drivers in Arkansas have paid a yearly fee of $200 (fully electric), $100 (hybrid) or $50 (hybrid plug-in) for their vehicles. The legislation was written to cover a portion of the “lost” gas tax revenue that would have otherwise been gained from the drivers at the pump. This funding contributes to the Arkansas Department of Transportation’s budget, which in turn helps fund the filling of potholes, repairing of roads and bridges, and resolving transportation issues as they arrive.
 
-Scott Hardin, spokesperson for the Arkansas Department of Finance, said the organization has garnered $11,810,093.88 since 2019 in collected fees from electric vehicle drivers. Thus far, hybrid vehicle drivers have paid the most with $7,764,048.40, fully electric drivers follow at just over half the amount with $3,687,990.92 and plug-in hybrid electric drivers paid $358,054.56 in the last six years.
+Scott Hardin, spokesperson for the Arkansas Department of Finance, said the organization has garnered $11,810,093.88 since 2019 in collected fees from electric vehicle drivers. Of the nearly $12 million gained, hybrid vehicle drivers have paid the most with $7,764,048.40, fully electric drivers follow at just over half the amount with $3,687,990.92 and plug-in hybrid electric drivers paid $358,054.56 in the last six years.
 
-<iframe title="Charging stations per one electric vehicle (2023)" aria-label="Map" id="datawrapper-chart-A0xRB" src="https://datawrapper.dwcdn.net/A0xRB/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
-</script></script>
+https://datawrapper.dwcdn.net/foXKc/1/
 
-Hardin said that although the ADFA does not have the specific yearly amounts, the revenue has continued to climb year-to-year since 2019. The number of registered fully-electric vehicle drivers in Arkansas has increased from 781 to 8,807, and the number of hybrid vehicles has climbed from 13,861 to 48,797. 
-
-This mirrors national trends, with a major boost to the industry taking place in the early 2020’s. In 2023, [Arkansans drove the 10th-lowest electric vehicle count in the nation,](https://afdc.energy.gov/data/10962) but have steadily increased their green presence in the last decade.
-
+<iframe title="Hybrid electric vehicles makes up more than half of Arkansas' electric vehicle registration since 2019" aria-label="Pie Chart" id="datawrapper-chart-foXKc" src="https://datawrapper.dwcdn.net/foXKc/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="461" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
 
-The motor fuels sales tax, contrary to its earth-friendly counterpart, has continued to increase year to year, but dropped in the last few months. According to public records, the revenue hit its highest peak in the last six years in 2023, but dropped to \$603 million in 2024 – the lowest collected year since 2020. 
+How many EVs are registered in Arkansas?
 
-<iframe title="Arkansas motor fuel sales tax" aria-label="Interactive line chart" id="datawrapper-chart-ZnKCT" src="https://datawrapper.dwcdn.net/ZnKCT/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+Hardin said that although the ADFA does not have the specific yearly amounts, the revenue has continued to climb year-to-year in the past decade. The number of registered fully-electric vehicle drivers in Arkansas has increased from 781 in 2019 to 8,807 in 2025, and the number of hybrid vehicles has climbed from 13,861 to 48,797 in the same time frame. 
+
+https://datawrapper.dwcdn.net/RXyfQ/1/
+
+
+<iframe title="How many electric vehicles are registered in Arkansas?" aria-label="Interactive line chart" id="datawrapper-chart-RXyfQ" src="https://datawrapper.dwcdn.net/RXyfQ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
 
-\</script\>
+This mirrors national trends, with a major boost to the industry taking place in the early 2020’s. In 2023, Arkansas reported the 10th lowest electric vehicle count in the nation, but has steadily increased its green presence in the last decade. Despite the efforts, it joins most midwest states as having less charging stations for each EV to use.
 
-However, there is notable overall growth from the tax’s revenue since 2015, with Q3 of 2023 having the highest quarterly total.
+<iframe title="Charging stations per one electric vehicle (2023)" aria-label="Map" id="datawrapper-chart-A0xRB" src="https://datawrapper.dwcdn.net/A0xRB/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="527" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+</script>
+
+
+The motor fuels sales tax, contrary to its earth-friendly counterpart, has continued to increase year to year, but dropped in the last few months. According to public records, the revenue hit its highest peak in the last six years in 2023, but dropped to $603 million in 2024 – the lowest collected year since 2020. 
+
+However, there is notable overall growth from the tax’s revenue since 2015, with Q3 of 2023 having the highest quarterly total of the last decade, according to the U.S. Census Bureau.   
+
+https://datawrapper.dwcdn.net/ZnKCT/2/ 
 
 <iframe title="Quarterly revenue of Arkansas gas tax" aria-label="Interactive line chart" id="datawrapper-chart-I4EMP" src="https://datawrapper.dwcdn.net/I4EMP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
+ 
 
-\</script\>\
-Despite the Natural State’s growing number of registered electric vehicles, Arkansas remains one of the least friendly to electric vehicle drivers. [The Department of Energy’s official data base reported](https://afdc.energy.gov/fuels/electricity-locations#/analyze) Arkansas as the ninth-lowest rate of electric vehicle charging stations per vehicle in 2023. \
+Is the revenue of EV proportional to the revenue of motor fuel sales tax?
 
-\<iframe title="Charging stations per one electric vehicle (2023)" aria-label="Map" id="datawrapper-chart-A0xRB" src="[https://datawrapper.dwcdn.net/A0xRB/1/"](https://datawrapper.dwcdn.net/A0xRB/1/%22) scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"\>\</iframe\>\<script type="text/javascript"\>!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+In 2023, according to the DOE, electric vehicles made up just 0.3% of the overall total of Arkansas’ 2,708,300 registered cars. By comparison, in the last five years, electric vehicles’ almost $12 million revenue made up %1.9 of revenue raised.
 
-\</script\>
+So, is the $200 recovering enough “lost” gas tax?
 
-As of June 2025, Arkansas has now garnered a total of [396 charging stations and 1,039 outlets](https://afdc.energy.gov/stations#/analyze?country=US&fuel=ELEC&ev_levels=all&access=public&access=private&region=US-AR), but there are still parts of the state that lack sufficient charging ports. Most of the chargers’ locations correlate to population density, highlighting an abundance in central and northwest Arkansas with few accessible in the southern region.
+Arkansas taxed gasoline (all grades) at $.247 per gallon in 2024. That means, in order to pay more in tax than the $200 of a fully electric vehicle, one would have to use 810.93 gallons in a year. According to the DOE, the average car has a rate of 24.4 miles per gallon.
 
-\*insert graphic that is not finished yet, having to manually plug in longitude and latitude of a bunch of locations\*\
-TKTKTKTK (doing calculations on traveling in Arkansas, was stopped today by having to do the math on finance and re-direct the project)
+One would have to drive more than 19,799 miles in a year (at 24.4 mpg) to pay more in state gas tax than the $200 EV fee. The average person drives 13,476 per year, according to the US Highway Administration; meaning to pay more than the $200 in state taxes of gasoline (19,799 miles in a year), one would have to drive from the furthest northwest corner of Bella Vista to the southernmost point of Eudora over 68 times. 
 
-\*graphic mapping Arkansas\*
+And are the drivers provided enough infrastructure?
 
-(room for interviews explaining the situation ).\
+As of June 2025, Arkansas has a total of 396 charging stations and 1,039 outlets, but there are still parts of the state that lack sufficient charging ports. Despite the Natural State’s growing number of registered electric vehicles, Arkansas remains one of the least friendly to electric vehicle drivers. The Department of Energy’s official data base reported Arkansas as having one of the lowest number of charging stations per electric vehicle in 2023. 
 
-\*There is a wide assortment of sources that can comment on this story. Scott Hardin of the Arkansas DFA, small-town business owners that manage charging stations, any of the environmental dynamics program staff at the University of Arkansas at Fayetteville, current ARDOT director Jared Wiley, and former ARDOT director Lorie Tudor (she oversaw the organization during the time of the collected data pool from 2019-2023).\*
+https://datawrapper.dwcdn.net/AL6sO/1/ 
+
+<iframe title="Arkansas one of worst states in ratio of charging stations for electric vehicles in 2023" aria-label="Table" id="datawrapper-chart-AL6sO" src="https://datawrapper.dwcdn.net/AL6sO/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2120" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+</script>
+
+In 2021, Arkansas was gifted $54.1 million in program funding over five years, beginning with $8 million in 2022, to deploy EV charging infrastructure through the National Electric Vehicle Infrastructure (NEVI) program, but implementation was halted in early February in accordance with federal regulations. In 2023, almost $15 million was spent on projects building 97 NEVI Ports across the state.
+
+Most of the chargers’ locations correlate to population density, highlighting an abundance in central and northwest Arkansas with few accessible in the southern region. 
+
+In conclusion
+
+While electric vehicle registration fees bring in more money each year, they still make up just a fraction of the revenue once generated by fuel taxes. With ARDOT’s alignment, freezing of all grant projects to build charging stations, the revenue seen by vehicle registrations will likely begin to plateau as more drivers will seek gasoline-powered alternatives.
+(additional notes of people to interview: EV drivers discussing the fee's impact on their decision-making, ARDOT officials explaining infrastructure priorities, and local dealerships on EV sales trends).
+
+
+
+
+
+
+
+
+
+
