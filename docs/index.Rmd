@@ -4,6 +4,9 @@ output: html_document
 date: "2025-05-01"
 ---
 
+<img src="../image/Your paragraph text.jpg" width="1200">
+
+
 ::: {style="text-align: center; color: #008000;"}
 # Stuck in a revenue ditch: Arkansas registered electric vehicle yearly fee grows, gas tax revenue drops
 
@@ -30,17 +33,10 @@ Since 2019, electric vehicle drivers in Arkansas have paid a yearly fee of $200 
 
 Scott Hardin, spokesperson for the Arkansas Department of Finance, said the organization has garnered $11,810,093.88 since 2019 in collected fees from electric vehicle drivers. Of the nearly $12 million gained, hybrid vehicle drivers have paid the most with $7,764,048.40, fully electric drivers follow at just over half the amount with $3,687,990.92 and plug-in hybrid electric drivers paid $358,054.56 in the last six years.
 
-https://datawrapper.dwcdn.net/foXKc/1/
-
-<iframe title="Hybrid electric vehicles makes up more than half of Arkansas' electric vehicle registration since 2019" aria-label="Pie Chart" id="datawrapper-chart-foXKc" src="https://datawrapper.dwcdn.net/foXKc/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="461" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+<iframe title="Hybrid electric vehicles makes up more than half of Arkansas' EV fee revenue since 2019" aria-label="Pie Chart" id="datawrapper-chart-foXKc" src="https://datawrapper.dwcdn.net/foXKc/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="461" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
 
-How many EVs are registered in Arkansas?
-
 Hardin said that although the ADFA does not have the specific yearly amounts, the revenue has continued to climb year-to-year in the past decade. The number of registered fully-electric vehicle drivers in Arkansas has increased from 781 in 2019 to 8,807 in 2025, and the number of hybrid vehicles has climbed from 13,861 to 48,797 in the same time frame. 
-
-https://datawrapper.dwcdn.net/RXyfQ/1/
-
 
 <iframe title="How many electric vehicles are registered in Arkansas?" aria-label="Interactive line chart" id="datawrapper-chart-RXyfQ" src="https://datawrapper.dwcdn.net/RXyfQ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
@@ -55,30 +51,18 @@ Overall, Arkansas lags behind the rest of the southeastern region with the amoun
 <iframe title="Number of stations" aria-label="Interactive line chart" id="datawrapper-chart-nbIRL" src="https://datawrapper.dwcdn.net/nbIRL/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="395" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();</script>
 
 The motor fuels sales tax, contrary to its earth-friendly counterpart, has continued to increase year to year, but dropped in the last few months. According to public records, the revenue hit its highest peak in the last six years in 2023, but dropped to $603 million in 2024 – the lowest collected year since 2020. 
-
 However, there is notable overall growth from the tax’s revenue since 2015, with Q3 of 2023 having the highest quarterly total of the last decade, according to the U.S. Census Bureau.   
 
-https://datawrapper.dwcdn.net/ZnKCT/2/ 
-
-<iframe title="Quarterly revenue of Arkansas gas tax" aria-label="Interactive line chart" id="datawrapper-chart-I4EMP" src="https://datawrapper.dwcdn.net/I4EMP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+<iframe title="Quarterly revenue of Arkansas' motor fuels sales tax" aria-label="Column Chart" id="datawrapper-chart-I4EMP" src="https://datawrapper.dwcdn.net/I4EMP/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="452" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
- 
-
-Is the revenue of EV proportional to the revenue of motor fuel sales tax?
 
 In 2023, according to the DOE, electric vehicles made up just 0.3% of the overall total of Arkansas’ 2,708,300 registered cars. By comparison, in the last five years, electric vehicles’ almost $12 million revenue made up %1.9 of revenue raised.
-
-So, is the $200 recovering enough “lost” gas tax?
 
 Arkansas taxed gasoline (all grades) at $.247 per gallon in 2024. That means, in order to pay more in tax than the $200 of a fully electric vehicle, one would have to use 810.93 gallons in a year. According to the DOE, the average car has a rate of 24.4 miles per gallon.
 
 One would have to drive more than 19,799 miles in a year (at 24.4 mpg) to pay more in state gas tax than the $200 EV fee. The average person drives 13,476 per year, according to the US Highway Administration; meaning to pay more than the $200 in state taxes of gasoline (19,799 miles in a year), one would have to drive from the furthest northwest corner of Bella Vista to the southernmost point of Eudora over 68 times. 
 
-And are the drivers provided enough infrastructure?
-
 As of June 2025, Arkansas has a total of 396 charging stations and 1,039 outlets, but there are still parts of the state that lack sufficient charging ports. Despite the Natural State’s growing number of registered electric vehicles, Arkansas remains one of the least friendly to electric vehicle drivers. The Department of Energy’s official data base reported Arkansas as having one of the lowest number of charging stations per electric vehicle in 2023. 
-
-https://datawrapper.dwcdn.net/AL6sO/1/ 
 
 <iframe title="Arkansas one of worst states in ratio of charging stations for electric vehicles in 2023" aria-label="Table" id="datawrapper-chart-AL6sO" src="https://datawrapper.dwcdn.net/AL6sO/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2121" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();</script>
 
