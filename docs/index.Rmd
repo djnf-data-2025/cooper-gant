@@ -50,6 +50,9 @@ This mirrors national trends, with a major boost to the industry taking place in
 <iframe title="Charging stations per one electric vehicle (2023)" aria-label="Map" id="datawrapper-chart-A0xRB" src="https://datawrapper.dwcdn.net/A0xRB/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="527" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
 
+Overall, Arkansas lags behind the rest of the southeastern region with the amount of charging stations.
+
+<iframe title="Number of stations" aria-label="Interactive line chart" id="datawrapper-chart-nbIRL" src="https://datawrapper.dwcdn.net/nbIRL/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="395" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();</script>
 
 The motor fuels sales tax, contrary to its earth-friendly counterpart, has continued to increase year to year, but dropped in the last few months. According to public records, the revenue hit its highest peak in the last six years in 2023, but dropped to $603 million in 2024 – the lowest collected year since 2020. 
 
