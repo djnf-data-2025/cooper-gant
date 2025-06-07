@@ -6,6 +6,8 @@ date: "2025-05-01"
 
 <img src="image/Your paragraph text.jpg" width="1200">
 
+<p>Re Commit</p>
+
 
 ::: {style="text-align: center; color: #008000;"}
 # Stuck in a revenue ditch: Arkansas registered electric vehicle yearly fee grows, gas tax revenue drops
